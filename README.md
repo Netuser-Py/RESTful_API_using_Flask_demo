@@ -6,7 +6,8 @@ https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-fla
  
 +
 +Files:
-+DemoDocx.py               Demo Code
-\Docs Folder               Template Files and Output space
-\docs\template4x6.docx
-\docs\01detail_section.docx
++REST_client_demo.py 
++SSH_login_demo.py 
++SSH_paramiko_Demo.py 
++rest_server_demo.py 
++urllib_HTML.py
