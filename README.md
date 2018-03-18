@@ -5,7 +5,6 @@ https://www.mulesoft.com/resources/api/what-is-rest-api-design
 
 See: https://slides.com/mystuff/restful_api_using_flask_demo
  
-Files:
 hello_flask.py
 
 https://docs.python.org/3/howto/urllib2.html
