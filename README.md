@@ -22,3 +22,5 @@ https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-fla
 
 rest_server_demo.py 
 REST_client_demo.py 
+
+Encryption and Authentication Notes: https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
